@@ -13,3 +13,10 @@ floor laughing! My chest was in pain and i almost felt that i was
 going to suffocate!! Funniest shit i’d ever seen, i’ll tell you 
 that. Im still laughing thinking about it. Awww man, you had to 
 be there. It was just so funny.
+
+```python
+from pickle import dumps as pickle
+from he_turns_himself_into_a_fucking_pickle import Rick
+
+pickle(Rick())
+```
